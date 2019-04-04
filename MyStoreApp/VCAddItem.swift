@@ -2,7 +2,7 @@
 //  VCAddItem.swift
 //  MyStoreApp
 //
-//  Created by LABMAC03 on 22/03/19.
+//  Created by Diana Manzano on 14/03/19.
 //  Copyright © 2019 nany. All rights reserved.
 //
 
