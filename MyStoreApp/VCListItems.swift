@@ -2,7 +2,7 @@
 //  VCListItems.swift
 //  MyStoreApp
 //
-//  Created by LABMAC03 on 29/03/19.
+//  Created by Diana Manzano on 14/03/19.
 //  Copyright © 2019 nany. All rights reserved.
 //
 
